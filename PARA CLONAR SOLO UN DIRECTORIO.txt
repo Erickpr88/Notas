@@ -1,0 +1,6 @@
+PARA CLONAR SOLO UN DIRECTORIO
+git init
+git remote add origin <UrlDelRepositorio>
+git config core.sparseCheckout true
+git sparse-checkout set <DirectorioAClonar>
+git pull origin <NombredeTuRama>
