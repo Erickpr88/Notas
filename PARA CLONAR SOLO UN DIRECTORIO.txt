@@ -4,3 +4,10 @@ git remote add origin <UrlDelRepositorio>
 git config core.sparseCheckout true
 git sparse-checkout set <DirectorioAClonar>
 git pull origin <NombredeTuRama>
+
+
+git clone UrlDelRepositorio
+git add .
+git commit -am "mensaje"
+git push
+git pull
