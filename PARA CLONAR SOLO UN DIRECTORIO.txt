@@ -11,3 +11,12 @@ git add .
 git commit -am "mensaje"
 git push
 git pull
+
+**AGRAGAR UNA REPOSITORIO**
+echo "# PROJECTO_PROGRAMADO" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/Erickpr88/PROJECTO_PROGRAMADO.git
+git push -u origin main
