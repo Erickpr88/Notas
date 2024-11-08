@@ -12,7 +12,7 @@ git commit -am "mensaje"
 git push
 git pull
 
-**AGRAGAR UNA REPOSITORIO**
+**AGREGAR UNA REPOSITORIO**
 echo "# PROJECTO_PROGRAMADO" >> README.md
 git init
 git add README.md
