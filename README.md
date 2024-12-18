@@ -1,4 +1,4 @@
-<a href="https://www.buymeacoffee.com/mubeenahmad" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="width: 150px" ></a>
+
 
 # **Resume Builder Laravel**
 
